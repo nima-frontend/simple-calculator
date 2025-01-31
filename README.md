@@ -1,6 +1,6 @@
 # Calculator
 **Here's a simple calculator form for basic operations**
-![payment form](https://github.com/user-attachments/assets/f7fc2c7e-295d-4b85-80ed-4586e56a8f8e)
+![Calculator](https://github.com/user-attachments/assets/aca3131e-2158-4ef3-b781-49fbd1971960)
 - [Demo Project](https://nima-frontend.github.io/simple-calculator/)
 - Developed by Nima Pourdad
 - Created - 2025-1-31
